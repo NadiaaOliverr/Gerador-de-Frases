@@ -4,12 +4,11 @@ Aplicação de um *gerador de frases motivacionais* elaborada na linguagem JavaS
 
 ![Gif que mostra o projeto em execução e as funcionalidades](https://i.imgur.com/DjueDZp.png)
 
-### Execução :rocket:
+<center>
 
-Para executar o projeto, clone ou faça download e após isso abra o arquivo **`index.html`** no navegador. 
+**Acesse o projeto [neste link]()**
 
-:warning: **Porém, o projeto está publicado**  e basta acessar [este link](XXXXXXXXX) para testá-lo sem a necessidade de qualquer instalação ou preparação de ambiente.
-
+</center>
 ---
 
 Tem alguma sugestão de melhoria ou encontrou algum bug? Deixe sua [issue](https://github.com/NadiaaOliverr/ToDo-List/issues) 😉
