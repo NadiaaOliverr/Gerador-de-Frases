@@ -9,6 +9,7 @@ Aplicação de um *gerador de frases motivacionais* elaborada na linguagem JavaS
 **Acesse o projeto [neste link]()**
 
 </center>
+
 ---
 
 Tem alguma sugestão de melhoria ou encontrou algum bug? Deixe sua [issue](https://github.com/NadiaaOliverr/ToDo-List/issues) 😉
