@@ -8,14 +8,13 @@ html {
 
 body {
     background-image: linear-gradient(to top right, black 25%, #221133);
-    padding-top: 2rem;
+    padding-top: 5rem;
 }
 
 .quote {
     align-items: center;
-    font-size: 1.6rem;
     text-align: center;
-    max-width: 600px;
+    max-width: 700px;
     margin: 0 auto;
     padding: 1.5rem;
     border: 2px solid #fff;
@@ -31,19 +30,21 @@ body {
     font-style: italic;
     margin-bottom: 0.4rem;
     font-family: 'Handlee', cursive;
+    font-size: 1.6rem;
 }
 
 
 .quote .author {
     font-weight: bold;
     font-family: 'PT Sans', sans-serif;
+    font-size: 1.4rem;
 }
 
 .button {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     background-color: #41b0e8;
     border-radius: 5px;
-    padding: 1.2rem;
+    padding: 0.9rem;
     cursor: pointer;
     color: #fff;
     border: none;
@@ -52,4 +53,9 @@ body {
 
 .button:hover{
     background-color: #8dcff1;
+}
+
+.fa-solid{
+    font-size: 0.7rem;
+    color: #CFC5DB;
 }
