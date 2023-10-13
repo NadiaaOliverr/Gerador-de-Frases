@@ -4,10 +4,8 @@ Aplicação de um *gerador de frases motivacionais* elaborada na linguagem JavaS
 
 ![Gif que mostra o projeto em execução e as funcionalidades](https://i.imgur.com/G4iUrHe.gif)
 
-<center>
-
-**Acesse o projeto [neste link]()**
-
-</center>
+<p align="center">
+    **Acesse o projeto [neste link](https://nadiaaoliverr.github.io/Gerador-de-Frases/)**
+</p>
 
 <!-- Tem alguma sugestão de melhoria ou encontrou algum bug? Deixe sua [issue](https://github.com/NadiaaOliverr/ToDo-List/issues) 😉 -->
