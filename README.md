@@ -1,8 +1,8 @@
 # Pensador: Gerador de Frases :four_leaf_clover:
 
-Aplicação de um *gerador de frases motivacionais* elaborada na linguagem JavaScript em conjunto com HTML e CSS, onde foi trabalhado alguns conceitos de manipulação do DOM, como seleção, criação de elementos e eventos. A aplicação inclui um botão que seleciona frases randômicas ao determinado clique do usuário.
+Aplicação de um *gerador de frases motivacionais* elaborada na linguagem JavaScript em conjunto com HTML e CSS, onde foi trabalhado alguns conceitos de manipulação do DOM, como seleção, criação de elementos e eventos. A aplicação inclui um botão que seleciona frases randômicas conforme o clique do usuário. Abaixo, uma demonstração:
 
-![Gif que mostra o projeto em execução e as funcionalidades](https://i.imgur.com/DjueDZp.png)
+![Gif que mostra o projeto em execução e as funcionalidades](https://i.imgur.com/G4iUrHe.gif)
 
 <center>
 
