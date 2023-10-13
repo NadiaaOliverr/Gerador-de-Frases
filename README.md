@@ -1,4 +1,4 @@
-# Gerador de Frases :four_leaf_clover:
+# Gerador de Frases :mag_right:
 
 Aplicação de um *gerador de frases motivacionais* elaborada na linguagem JavaScript em conjunto com HTML e CSS, onde foi trabalhado alguns conceitos de manipulação do DOM, como seleção, criação de elementos e eventos. A aplicação inclui um botão que seleciona frases randômicas conforme o clique do usuário. Abaixo, uma demonstração:
 
