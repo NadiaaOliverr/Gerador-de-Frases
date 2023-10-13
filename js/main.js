@@ -50,6 +50,7 @@ const quoteBtn = document.querySelector("#quoteBtn");
 const quoteText = document.querySelector(".text");
 const quoteAuthor = document.querySelector(".author");
 const quoteCitation = document.querySelector("span");
+const body = document.querySelector("body");
 
 
 function getQuote(){
@@ -74,4 +75,25 @@ function getQuote(){
     quoteAuthor.textContent = " " + quotes[index].author + " ";
 }
 
+function generateColor(){
+  
+  let colors = []
+  let color;
+
+  for (let i = 0; i < 6; i++) {
+    color = Math.floor(Math.random() * 10)
+    colors.push(color);
+  }
+
+ return colors.map(String).join('');
+
+}
+
+function changeBackgroundColor(){
+
+    body.style = `background-image: linear-gradient(to top right, #${generateColor()} 10%, #${generateColor()})`;
+
+}
+
 quoteBtn.addEventListener('click', getQuote);
+quoteBtn.addEventListener('click', changeBackgroundColor);
