@@ -11,6 +11,21 @@ body {
     padding-top: 5rem;
 }
 
+footer {
+    position: fixed;
+    color: #fff;
+    font-size: 12px;
+    margin: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    font-style: italic;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
 .quote {
     align-items: center;
     text-align: center;
