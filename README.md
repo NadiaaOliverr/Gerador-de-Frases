@@ -8,7 +8,7 @@ Aplicação de um *gerador de frases motivacionais* elaborada na linguagem JavaS
    <strong> Acesse o projeto <a href="https://nadiaaoliverr.github.io/Gerador-de-Frases/">neste link</a> </strong>
 </p>
 
-#### Adicionando mais frases :anchor:
+### Adicionando mais frases :anchor:
 
 Para adicionar mais frases, acesse o arquivo [frases.js](https://github.com/NadiaaOliverr/Gerador-de-Frases/blob/main/db/frases.js) e faça um Pull Resquest para o repositório. 
 
